@@ -94,7 +94,7 @@ body {
 }
 
 .titulo-pagina {
-	background-color: #F0EA95;
+	background-color: #CEDDF5;
 	border-left: 10px solid #cc3300;
 	padding: 15px;
 	margin-bottom: 20px;
@@ -171,7 +171,7 @@ body {
 .espacio-imagen {
   height: 220px;
   border: 2px dashed #000000;
-  background-color: #F0EA95;
+  background-color: #CEDDF5;
   text-align: center;
   line-height: 220px;
   font-weight: bold;
@@ -180,7 +180,7 @@ body {
 .espacio-imagen-alto {
   height: 340px;
   border: 2px dashed #000000;
-  background-color: #F0EA95;
+  background-color: #CEDDF5;
   text-align: center;
   line-height: 340px;
   font-weight: bold;
@@ -189,7 +189,7 @@ body {
 .espacio-video {
   height: 260px;
   border: 2px dashed #000000;
-  background-color: #F0EA95;
+  background-color: #CEDDF5;
   text-align: center;
   line-height: 260px;
   font-weight: bold;
@@ -198,7 +198,7 @@ body {
 .espacio-video-alto {
   height: 320px;
   border: 2px dashed #000000;
-  background-color: #F0EA95;
+  background-color: #CEDDF5;
   text-align: center;
   line-height: 320px;
   font-weight: bold;
@@ -207,7 +207,7 @@ body {
 .espacio-cartel {
   height: 360px;
   border: 2px dashed #000000;
-  background-color: #F0EA95;
+  background-color: #CEDDF5;
   text-align: center;
   line-height: 360px;
   font-weight: bold;
